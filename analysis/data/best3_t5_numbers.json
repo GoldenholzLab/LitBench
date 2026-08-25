@@ -1,0 +1,84 @@
+{
+  "small": {
+    "both_hops": {
+      "acc": 5.7,
+      "lo": 0.0,
+      "hi": 13.3,
+      "n_cells": 510
+    },
+    "both_hops_composite": {
+      "acc": 5.1,
+      "lo": 0.0,
+      "hi": 13.3,
+      "n_cells": 510
+    },
+    "any_hop": {
+      "acc": 64.5,
+      "lo": 64.2,
+      "hi": 100.0,
+      "n_cells": 510
+    },
+    "Ns": [
+      10,
+      50,
+      200
+    ],
+    "n_cells": 510
+  },
+  "medium": {
+    "both_hops": {
+      "acc": 17.1,
+      "lo": 16.9,
+      "hi": 33.3,
+      "n_cells": 510
+    },
+    "both_hops_composite": {
+      "acc": 15.3,
+      "lo": 0.0,
+      "hi": 15.4,
+      "n_cells": 510
+    },
+    "any_hop": {
+      "acc": 76.3,
+      "lo": 60.0,
+      "hi": 100.0,
+      "n_cells": 510
+    },
+    "Ns": [
+      10,
+      50,
+      200
+    ],
+    "n_cells": 510
+  },
+  "frontier": {
+    "both_hops": {
+      "acc": 37.8,
+      "lo": 0.0,
+      "hi": 54.3,
+      "n_cells": 1189
+    },
+    "both_hops_composite": {
+      "acc": 26.0,
+      "lo": 0.0,
+      "hi": 45.7,
+      "n_cells": 1189
+    },
+    "any_hop": {
+      "acc": 87.9,
+      "lo": 71.4,
+      "hi": 100.0,
+      "n_cells": 1189
+    },
+    "Ns": [
+      10,
+      50,
+      100,
+      200,
+      500,
+      1000,
+      2000
+    ],
+    "n_cells": 1189
+  }
+}

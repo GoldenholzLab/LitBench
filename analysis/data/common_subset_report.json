@@ -1,0 +1,559 @@
+{
+  "bank_n": 2188,
+  "run_n": {
+    "gemma-4b": 2252,
+    "gemma-12b": 2252,
+    "sonnet5-native": 2059
+  },
+  "common_n": 2059,
+  "shortfall_n": 129,
+  "shortfall_qids": [
+    "Q00015",
+    "Q00018",
+    "Q00047",
+    "Q00080",
+    "Q00096",
+    "Q00161",
+    "Q00167",
+    "Q00181",
+    "Q00229",
+    "Q00302",
+    "Q00304",
+    "Q00324",
+    "Q00352",
+    "Q00371",
+    "Q00395",
+    "Q00399",
+    "Q00426",
+    "Q00462",
+    "Q00515",
+    "Q00517",
+    "Q00560",
+    "Q00572",
+    "Q00661",
+    "Q00668",
+    "Q00691",
+    "Q00753",
+    "Q00797",
+    "Q00823",
+    "Q00827",
+    "Q00835",
+    "Q00853",
+    "Q00881",
+    "Q00943",
+    "Q00970",
+    "Q00994",
+    "Q01017",
+    "Q01036",
+    "Q01044",
+    "Q01046",
+    "Q01074",
+    "Q01093",
+    "Q01138",
+    "Q01216",
+    "Q01302",
+    "Q01355",
+    "Q01356",
+    "Q01367",
+    "Q01383",
+    "Q01422",
+    "Q01440",
+    "Q01449",
+    "Q01482",
+    "Q01487",
+    "Q01531",
+    "Q01589",
+    "Q01592",
+    "Q01593",
+    "Q01606",
+    "Q01607",
+    "Q01657",
+    "Q01726",
+    "Q01828",
+    "Q01839",
+    "Q01845",
+    "Q01875",
+    "Q01965",
+    "Q01990",
+    "Q01997",
+    "Q02012",
+    "Q02026",
+    "Q02030",
+    "Q02035",
+    "Q02042",
+    "Q02051",
+    "Q02059",
+    "Q02066",
+    "Q02067",
+    "Q02089",
+    "Q02251",
+    "Q02275",
+    "Q02280",
+    "Q02325",
+    "Q02354",
+    "Q02362",
+    "Q02369",
+    "Q02397",
+    "Q02399",
+    "Q02479",
+    "Q02501",
+    "Q02507",
+    "Q02558",
+    "Q02570",
+    "Q02583",
+    "Q02618",
+    "Q02655",
+    "Q02674",
+    "Q02791",
+    "Q02818",
+    "Q02864",
+    "Q02892",
+    "Q02911",
+    "Q02924",
+    "Q02968",
+    "Q02973",
+    "Q03005",
+    "Q03064",
+    "Q03065",
+    "Q03096",
+    "Q03142",
+    "Q03150",
+    "Q03151",
+    "Q03154",
+    "Q03167",
+    "Q03175",
+    "Q03226",
+    "Q03229",
+    "Q03251",
+    "Q03273",
+    "Q03283",
+    "Q03288",
+    "Q03292",
+    "Q03327",
+    "Q03333",
+    "Q03364",
+    "Q03399",
+    "Q03422",
+    "Q03425",
+    "Q03428",
+    "Q03439"
+  ],
+  "shortfall_missing_from": {
+    "Q00015": [
+      "sonnet5-native"
+    ],
+    "Q00018": [
+      "sonnet5-native"
+    ],
+    "Q00047": [
+      "sonnet5-native"
+    ],
+    "Q00080": [
+      "sonnet5-native"
+    ],
+    "Q00096": [
+      "sonnet5-native"
+    ],
+    "Q00161": [
+      "sonnet5-native"
+    ],
+    "Q00167": [
+      "sonnet5-native"
+    ],
+    "Q00181": [
+      "sonnet5-native"
+    ],
+    "Q00229": [
+      "sonnet5-native"
+    ],
+    "Q00302": [
+      "sonnet5-native"
+    ],
+    "Q00304": [
+      "sonnet5-native"
+    ],
+    "Q00324": [
+      "sonnet5-native"
+    ],
+    "Q00352": [
+      "sonnet5-native"
+    ],
+    "Q00371": [
+      "sonnet5-native"
+    ],
+    "Q00395": [
+      "sonnet5-native"
+    ],
+    "Q00399": [
+      "sonnet5-native"
+    ],
+    "Q00426": [
+      "sonnet5-native"
+    ],
+    "Q00462": [
+      "sonnet5-native"
+    ],
+    "Q00515": [
+      "sonnet5-native"
+    ],
+    "Q00517": [
+      "sonnet5-native"
+    ],
+    "Q00560": [
+      "sonnet5-native"
+    ],
+    "Q00572": [
+      "sonnet5-native"
+    ],
+    "Q00661": [
+      "sonnet5-native"
+    ],
+    "Q00668": [
+      "sonnet5-native"
+    ],
+    "Q00691": [
+      "sonnet5-native"
+    ],
+    "Q00753": [
+      "sonnet5-native"
+    ],
+    "Q00797": [
+      "sonnet5-native"
+    ],
+    "Q00823": [
+      "sonnet5-native"
+    ],
+    "Q00827": [
+      "sonnet5-native"
+    ],
+    "Q00835": [
+      "sonnet5-native"
+    ],
+    "Q00853": [
+      "sonnet5-native"
+    ],
+    "Q00881": [
+      "sonnet5-native"
+    ],
+    "Q00943": [
+      "sonnet5-native"
+    ],
+    "Q00970": [
+      "sonnet5-native"
+    ],
+    "Q00994": [
+      "sonnet5-native"
+    ],
+    "Q01017": [
+      "sonnet5-native"
+    ],
+    "Q01036": [
+      "sonnet5-native"
+    ],
+    "Q01044": [
+      "sonnet5-native"
+    ],
+    "Q01046": [
+      "sonnet5-native"
+    ],
+    "Q01074": [
+      "sonnet5-native"
+    ],
+    "Q01093": [
+      "sonnet5-native"
+    ],
+    "Q01138": [
+      "sonnet5-native"
+    ],
+    "Q01216": [
+      "sonnet5-native"
+    ],
+    "Q01302": [
+      "sonnet5-native"
+    ],
+    "Q01355": [
+      "sonnet5-native"
+    ],
+    "Q01356": [
+      "sonnet5-native"
+    ],
+    "Q01367": [
+      "sonnet5-native"
+    ],
+    "Q01383": [
+      "sonnet5-native"
+    ],
+    "Q01422": [
+      "sonnet5-native"
+    ],
+    "Q01440": [
+      "sonnet5-native"
+    ],
+    "Q01449": [
+      "sonnet5-native"
+    ],
+    "Q01482": [
+      "sonnet5-native"
+    ],
+    "Q01487": [
+      "sonnet5-native"
+    ],
+    "Q01531": [
+      "sonnet5-native"
+    ],
+    "Q01589": [
+      "sonnet5-native"
+    ],
+    "Q01592": [
+      "sonnet5-native"
+    ],
+    "Q01593": [
+      "sonnet5-native"
+    ],
+    "Q01606": [
+      "sonnet5-native"
+    ],
+    "Q01607": [
+      "sonnet5-native"
+    ],
+    "Q01657": [
+      "sonnet5-native"
+    ],
+    "Q01726": [
+      "sonnet5-native"
+    ],
+    "Q01828": [
+      "sonnet5-native"
+    ],
+    "Q01839": [
+      "sonnet5-native"
+    ],
+    "Q01845": [
+      "sonnet5-native"
+    ],
+    "Q01875": [
+      "sonnet5-native"
+    ],
+    "Q01965": [
+      "sonnet5-native"
+    ],
+    "Q01990": [
+      "sonnet5-native"
+    ],
+    "Q01997": [
+      "sonnet5-native"
+    ],
+    "Q02012": [
+      "sonnet5-native"
+    ],
+    "Q02026": [
+      "sonnet5-native"
+    ],
+    "Q02030": [
+      "sonnet5-native"
+    ],
+    "Q02035": [
+      "sonnet5-native"
+    ],
+    "Q02042": [
+      "sonnet5-native"
+    ],
+    "Q02051": [
+      "sonnet5-native"
+    ],
+    "Q02059": [
+      "sonnet5-native"
+    ],
+    "Q02066": [
+      "sonnet5-native"
+    ],
+    "Q02067": [
+      "sonnet5-native"
+    ],
+    "Q02089": [
+      "sonnet5-native"
+    ],
+    "Q02251": [
+      "sonnet5-native"
+    ],
+    "Q02275": [
+      "sonnet5-native"
+    ],
+    "Q02280": [
+      "sonnet5-native"
+    ],
+    "Q02325": [
+      "sonnet5-native"
+    ],
+    "Q02354": [
+      "sonnet5-native"
+    ],
+    "Q02362": [
+      "sonnet5-native"
+    ],
+    "Q02369": [
+      "sonnet5-native"
+    ],
+    "Q02397": [
+      "sonnet5-native"
+    ],
+    "Q02399": [
+      "sonnet5-native"
+    ],
+    "Q02479": [
+      "sonnet5-native"
+    ],
+    "Q02501": [
+      "sonnet5-native"
+    ],
+    "Q02507": [
+      "sonnet5-native"
+    ],
+    "Q02558": [
+      "sonnet5-native"
+    ],
+    "Q02570": [
+      "sonnet5-native"
+    ],
+    "Q02583": [
+      "sonnet5-native"
+    ],
+    "Q02618": [
+      "sonnet5-native"
+    ],
+    "Q02655": [
+      "sonnet5-native"
+    ],
+    "Q02674": [
+      "sonnet5-native"
+    ],
+    "Q02791": [
+      "sonnet5-native"
+    ],
+    "Q02818": [
+      "sonnet5-native"
+    ],
+    "Q02864": [
+      "sonnet5-native"
+    ],
+    "Q02892": [
+      "sonnet5-native"
+    ],
+    "Q02911": [
+      "sonnet5-native"
+    ],
+    "Q02924": [
+      "sonnet5-native"
+    ],
+    "Q02968": [
+      "sonnet5-native"
+    ],
+    "Q02973": [
+      "sonnet5-native"
+    ],
+    "Q03005": [
+      "sonnet5-native"
+    ],
+    "Q03064": [
+      "sonnet5-native"
+    ],
+    "Q03065": [
+      "sonnet5-native"
+    ],
+    "Q03096": [
+      "sonnet5-native"
+    ],
+    "Q03142": [
+      "sonnet5-native"
+    ],
+    "Q03150": [
+      "sonnet5-native"
+    ],
+    "Q03151": [
+      "sonnet5-native"
+    ],
+    "Q03154": [
+      "sonnet5-native"
+    ],
+    "Q03167": [
+      "sonnet5-native"
+    ],
+    "Q03175": [
+      "sonnet5-native"
+    ],
+    "Q03226": [
+      "sonnet5-native"
+    ],
+    "Q03229": [
+      "sonnet5-native"
+    ],
+    "Q03251": [
+      "sonnet5-native"
+    ],
+    "Q03273": [
+      "sonnet5-native"
+    ],
+    "Q03283": [
+      "sonnet5-native"
+    ],
+    "Q03288": [
+      "sonnet5-native"
+    ],
+    "Q03292": [
+      "sonnet5-native"
+    ],
+    "Q03327": [
+      "sonnet5-native"
+    ],
+    "Q03333": [
+      "sonnet5-native"
+    ],
+    "Q03364": [
+      "sonnet5-native"
+    ],
+    "Q03399": [
+      "sonnet5-native"
+    ],
+    "Q03422": [
+      "sonnet5-native"
+    ],
+    "Q03425": [
+      "sonnet5-native"
+    ],
+    "Q03428": [
+      "sonnet5-native"
+    ],
+    "Q03439": [
+      "sonnet5-native"
+    ]
+  },
+  "shortfall_by_domain": {
+    "introduction": 20,
+    "discussion": 19,
+    "table": 19,
+    "methods": 18,
+    "abstract": 18,
+    "results": 18,
+    "figure": 17
+  },
+  "shortfall_by_fact_type": {
+    "recall": 86,
+    "thinking": 43
+  },
+  "shortfall_by_tag": {
+    "introduction_recall": 15,
+    "abstract_recall": 14,
+    "discussion_recall": 13,
+    "table_recall": 13,
+    "figure_recall": 11,
+    "methods_recall": 10,
+    "results_recall": 10,
+    "methods_thinking": 8,
+    "results_thinking": 8,
+    "discussion_thinking": 6,
+    "table_thinking": 6,
+    "figure_thinking": 6,
+    "introduction_thinking": 5,
+    "abstract_thinking": 4
+  }
+}
