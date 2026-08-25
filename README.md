@@ -1,5 +1,4 @@
-# LitBench — corpus manifest
-
+# LitBench 
 The list of published articles that make up the LitBench corpus: **1,980 open-access papers**,
 of which **1,000 are epilepsy papers that carry the answers** and **980 are non-epilepsy decoys**
 that carry none and exist only as competing papers to search through.
